@@ -1,0 +1,14 @@
+C:\Users\aluno.torres\TDEaula3\bin\Debug\net8.0\TDEaula3.exe
+C:\Users\aluno.torres\TDEaula3\bin\Debug\net8.0\TDEaula3.deps.json
+C:\Users\aluno.torres\TDEaula3\bin\Debug\net8.0\TDEaula3.runtimeconfig.json
+C:\Users\aluno.torres\TDEaula3\bin\Debug\net8.0\TDEaula3.dll
+C:\Users\aluno.torres\TDEaula3\bin\Debug\net8.0\TDEaula3.pdb
+C:\Users\aluno.torres\TDEaula3\obj\Debug\net8.0\TDEaula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.torres\TDEaula3\obj\Debug\net8.0\TDEaula3.AssemblyInfoInputs.cache
+C:\Users\aluno.torres\TDEaula3\obj\Debug\net8.0\TDEaula3.AssemblyInfo.cs
+C:\Users\aluno.torres\TDEaula3\obj\Debug\net8.0\TDEaula3.csproj.CoreCompileInputs.cache
+C:\Users\aluno.torres\TDEaula3\obj\Debug\net8.0\TDEaula3.dll
+C:\Users\aluno.torres\TDEaula3\obj\Debug\net8.0\refint\TDEaula3.dll
+C:\Users\aluno.torres\TDEaula3\obj\Debug\net8.0\TDEaula3.pdb
+C:\Users\aluno.torres\TDEaula3\obj\Debug\net8.0\TDEaula3.genruntimeconfig.cache
+C:\Users\aluno.torres\TDEaula3\obj\Debug\net8.0\ref\TDEaula3.dll
