@@ -1,0 +1,15 @@
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\bin\Debug\net8.0\TDEAula3.exe
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\bin\Debug\net8.0\TDEAula3.deps.json
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\bin\Debug\net8.0\TDEAula3.runtimeconfig.json
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\bin\Debug\net8.0\TDEAula3.dll
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\bin\Debug\net8.0\TDEAula3.pdb
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\TDEAula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\TDEAula3.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\TDEAula3.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\TDEAula3.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\TDEAula3.sourcelink.json
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\TDEAula3.dll
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\refint\TDEAula3.dll
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\TDEAula3.pdb
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\TDEAula3.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\c_sarp\Laboratório_de_programação\TDEAula3\obj\Debug\net8.0\ref\TDEAula3.dll
