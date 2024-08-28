@@ -1,0 +1,14 @@
+C:\Users\aluno.torres\Desktop\exaula4\bin\Debug\net8.0\exaula4.exe
+C:\Users\aluno.torres\Desktop\exaula4\bin\Debug\net8.0\exaula4.deps.json
+C:\Users\aluno.torres\Desktop\exaula4\bin\Debug\net8.0\exaula4.runtimeconfig.json
+C:\Users\aluno.torres\Desktop\exaula4\bin\Debug\net8.0\exaula4.dll
+C:\Users\aluno.torres\Desktop\exaula4\bin\Debug\net8.0\exaula4.pdb
+C:\Users\aluno.torres\Desktop\exaula4\obj\Debug\net8.0\exaula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.torres\Desktop\exaula4\obj\Debug\net8.0\exaula4.AssemblyInfoInputs.cache
+C:\Users\aluno.torres\Desktop\exaula4\obj\Debug\net8.0\exaula4.AssemblyInfo.cs
+C:\Users\aluno.torres\Desktop\exaula4\obj\Debug\net8.0\exaula4.csproj.CoreCompileInputs.cache
+C:\Users\aluno.torres\Desktop\exaula4\obj\Debug\net8.0\exaula4.dll
+C:\Users\aluno.torres\Desktop\exaula4\obj\Debug\net8.0\refint\exaula4.dll
+C:\Users\aluno.torres\Desktop\exaula4\obj\Debug\net8.0\exaula4.pdb
+C:\Users\aluno.torres\Desktop\exaula4\obj\Debug\net8.0\exaula4.genruntimeconfig.cache
+C:\Users\aluno.torres\Desktop\exaula4\obj\Debug\net8.0\ref\exaula4.dll
