@@ -1,2 +1,2 @@
 # c_sarp
- Hello World
+Diversos exercícios e projetos feitos em C#
