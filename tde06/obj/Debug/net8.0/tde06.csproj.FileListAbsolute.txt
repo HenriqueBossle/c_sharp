@@ -1,0 +1,14 @@
+C:\Users\aluno.torres\Desktop\tde06\bin\Debug\net8.0\tde06.exe
+C:\Users\aluno.torres\Desktop\tde06\bin\Debug\net8.0\tde06.deps.json
+C:\Users\aluno.torres\Desktop\tde06\bin\Debug\net8.0\tde06.runtimeconfig.json
+C:\Users\aluno.torres\Desktop\tde06\bin\Debug\net8.0\tde06.dll
+C:\Users\aluno.torres\Desktop\tde06\bin\Debug\net8.0\tde06.pdb
+C:\Users\aluno.torres\Desktop\tde06\obj\Debug\net8.0\tde06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.torres\Desktop\tde06\obj\Debug\net8.0\tde06.AssemblyInfoInputs.cache
+C:\Users\aluno.torres\Desktop\tde06\obj\Debug\net8.0\tde06.AssemblyInfo.cs
+C:\Users\aluno.torres\Desktop\tde06\obj\Debug\net8.0\tde06.csproj.CoreCompileInputs.cache
+C:\Users\aluno.torres\Desktop\tde06\obj\Debug\net8.0\tde06.dll
+C:\Users\aluno.torres\Desktop\tde06\obj\Debug\net8.0\refint\tde06.dll
+C:\Users\aluno.torres\Desktop\tde06\obj\Debug\net8.0\tde06.pdb
+C:\Users\aluno.torres\Desktop\tde06\obj\Debug\net8.0\tde06.genruntimeconfig.cache
+C:\Users\aluno.torres\Desktop\tde06\obj\Debug\net8.0\ref\tde06.dll
