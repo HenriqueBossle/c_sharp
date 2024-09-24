@@ -1,0 +1,14 @@
+C:\Users\aluno.torres\Desktop\aula10p2\obj\Debug\net8.0\aula10p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.torres\Desktop\aula10p2\obj\Debug\net8.0\aula10p2.AssemblyInfoInputs.cache
+C:\Users\aluno.torres\Desktop\aula10p2\obj\Debug\net8.0\aula10p2.AssemblyInfo.cs
+C:\Users\aluno.torres\Desktop\aula10p2\obj\Debug\net8.0\aula10p2.csproj.CoreCompileInputs.cache
+C:\Users\aluno.torres\Desktop\aula10p2\bin\Debug\net8.0\aula10p2.exe
+C:\Users\aluno.torres\Desktop\aula10p2\bin\Debug\net8.0\aula10p2.deps.json
+C:\Users\aluno.torres\Desktop\aula10p2\bin\Debug\net8.0\aula10p2.runtimeconfig.json
+C:\Users\aluno.torres\Desktop\aula10p2\bin\Debug\net8.0\aula10p2.dll
+C:\Users\aluno.torres\Desktop\aula10p2\bin\Debug\net8.0\aula10p2.pdb
+C:\Users\aluno.torres\Desktop\aula10p2\obj\Debug\net8.0\aula10p2.dll
+C:\Users\aluno.torres\Desktop\aula10p2\obj\Debug\net8.0\refint\aula10p2.dll
+C:\Users\aluno.torres\Desktop\aula10p2\obj\Debug\net8.0\aula10p2.pdb
+C:\Users\aluno.torres\Desktop\aula10p2\obj\Debug\net8.0\aula10p2.genruntimeconfig.cache
+C:\Users\aluno.torres\Desktop\aula10p2\obj\Debug\net8.0\ref\aula10p2.dll
