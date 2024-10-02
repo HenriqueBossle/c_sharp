@@ -1,0 +1,4 @@
+C:\Users\aluno.torres\Desktop\TDE11\obj\Debug\net8.0\TDE11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.torres\Desktop\TDE11\obj\Debug\net8.0\TDE11.AssemblyInfoInputs.cache
+C:\Users\aluno.torres\Desktop\TDE11\obj\Debug\net8.0\TDE11.AssemblyInfo.cs
+C:\Users\aluno.torres\Desktop\TDE11\obj\Debug\net8.0\TDE11.csproj.CoreCompileInputs.cache
